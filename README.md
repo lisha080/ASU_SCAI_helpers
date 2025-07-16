@@ -1,5 +1,5 @@
 # ASU_SCAI_helpers
-A collection of helpful links and resources with brief descriptions.
+A collection of helpful links and resources for SCAI students 
 
 ## ASU Related Links
 
@@ -18,12 +18,15 @@ A collection of helpful links and resources with brief descriptions.
 - [Free SDFC Group Fitness Classes](https://fitness.asu.edu/programs/fitness-wellness/groupexercise)  
   ASU’s Sun Devil Fitness Center offers free group classes like yoga, cycling, HIIT, pilates, Zumba, and more. A great way to stay active and meet other students.
 
-## Project tutorials/Learning tools
+## Learning tools
 
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)
   Projects with tutorials divided by languages and ranging multiple difficulty levels. 
 - [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-  Awesome cheatsheets for popular programming languages, frameworks and development tools. 
+  Awesome cheatsheets for popular programming languages, frameworks and development tools.
+- [NeetCode Blind 75 Practice](https://neetcode.io/practice?tab=blind75)  
+  A curated list of the 75 most popular coding interview problems, with solutions in multiple languages. Perfect for preparing for technical interviews and mastering core data structures and algorithms.
+
 
 ## Great courses/Websites with great courses
 
@@ -33,7 +36,8 @@ A collection of helpful links and resources with brief descriptions.
 ## YouTubers that are awesome teachers 
 
 - [Amigoscode](https://www.youtube.com/@amigoscode) - Great for backend development and Java fundamentals.
-- [Abdul Bari](https://www.youtube.com/@abdulbarikcs) - Exceptional explanations on data structures and algorithms.
+- [Abdul Bari](https://www.youtube.com/@abdulbarikcs) - Exceptional explanations on data structures and algorithms (CSE 310 king).
+- [Freecode camp](freeCodeCamp.org) - 8-12 hour full courses on Python, React, Node.js, DSA, even cybersecurity.
 
 ## Student Discounts
 
