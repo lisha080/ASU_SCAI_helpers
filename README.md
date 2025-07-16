@@ -21,8 +21,9 @@ A collection of helpful links and resources with brief descriptions.
 ## Project tutorials/Learning tools
 
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)
-  Projects (with tutorials) divided by languages and ranging multiple difficulty levels 
+  Projects with tutorials divided by languages and ranging multiple difficulty levels. 
 - [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+  Awesome cheatsheets for popular programming languages, frameworks and development tools. 
 
 ## Great courses/Websites with great courses
 
