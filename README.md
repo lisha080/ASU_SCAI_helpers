@@ -16,11 +16,12 @@ A collection of helpful links and resources with brief descriptions, designed fo
 - [ASU Accelerated Programs](https://scai.engineering.asu.edu/undergraduate-degrees/)  
   Shows major maps and degree requirements (including 4+1 programs) under SCAI to help plan for combined degrees.
 
-## GitHub Repo of Projects To Try
+## Projects/Learning helpers
 
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)
+- [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 
-## Courses That Have Helped Me
+## Websites with great courses
 
 (Add free or paid courses here that you recommend, e.g. Harvard CS50, Coursera ML by Andrew Ng.)
 
@@ -38,7 +39,7 @@ A collection of helpful links and resources with brief descriptions, designed fo
 - [UNiDAYS](https://www.myunidays.com/US/en-US)  
   Free platform to access student discounts on 300+ brands like Apple, Amazon, Adobe, Nike, and more.
 
-## Internships
+## Internships/tools to apply
 
 - [Summer 2026 Internships by Pitt CSC & Simplify](https://github.com/SimplifyJobs/Summer2026-Internships)  
   Crowdsourced list of tech internships, frequently updated and categorized.
