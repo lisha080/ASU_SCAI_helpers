@@ -26,6 +26,8 @@ A collection of helpful links and resources for SCAI students
   Awesome cheatsheets for popular programming languages, frameworks and development tools.
 - [NeetCode Blind 75 Practice](https://neetcode.io/practice?tab=blind75)  
   A curated list of the 75 most popular coding interview problems, with solutions in multiple languages. Perfect for preparing for technical interviews and mastering core data structures and algorithms.
+- [Roadmap](roadmap.sh)
+  Shows and explains some role based roadmaps, skill based roadmaps, project ideas etc that exist for computer science and related fields
 
 
 ## Great courses/Websites with great courses
