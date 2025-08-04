@@ -1,4 +1,4 @@
-# ASU_SCAI_helpers
+# ASU SCAI helpers
 A collection of helpful links and resources for SCAI students 
 
 ## ASU Related Links
